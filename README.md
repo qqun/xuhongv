@@ -5,19 +5,15 @@
 
 -------------
 
-[![Mail Badge](https://img.shields.io/badge/-t.zhuqi@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:t.zhuqi@gmail.com)](mailto:xuhongv@yeah.net)
-[![QQ](https://img.shields.io/badge/QQ-644165318-red.svg "QQ")](https://jq.qq.com/?_wv=1027&k=58Ypj9z "QQ")
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Zhu%20Qi-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/zhu-qi-1014/ "LinkedIn")
-[![Facebook](https://img.shields.io/badge/Facebook-Zhu%20Qi-blue?style=flat-square&logo=Facebook)](https://www.facebook.com/profile.php?id=100005561439667 "Facebook")
+[![Mail Badge](https://img.shields.io/badge/-xuhongv@yeah.net-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:xuhongv@yeah.net)](mailto:xuhongv@yeah.net)
+[![QQ](https://img.shields.io/badge/QQ-434878850-red.svg "QQ")](https://shang.qq.com/wpa/qunwpa?idkey=b185898c0b510db3d5dd05bd7832537de267843b80c9bb2580eae98b95c3e90d "QQ")
 
 ## 👨🏻‍💻 Hey GitHub Fellows 👋
 ### 🧍 About Me
 - 🔭 Exploring new technologies and developing software solutions and quick hacks.
-- 🎓 Bachelor in Electrical and Electronic Engineering at Nanyang Technological University (NTU).
 - 💼 Working as a Embedded Software Engineer in Ai-Thinker China ShenZhen.
 - 🌱 Learning more about RTOS, Artificial Intelligence，PCB and CAD Design.
 - ✍️ Pursuing Graphic Design and Blog Writing as hobbies/side hustles.
-- ⚡ Fun fact: friends not able to pronounce my name will just cal me "SUSHI"
 
 -------------
 
